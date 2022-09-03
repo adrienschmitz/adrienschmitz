@@ -27,8 +27,8 @@
 ---
     
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienschmitz&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=adrienschmitz&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienschmitz&show_icons=true&theme=synthwave&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=adrienschmitz&show_icons=true&show_icons=true&theme=synthwave&count_private=true&hide_rank=true" />
 </div>
 
 <!---
