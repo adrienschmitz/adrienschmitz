@@ -26,10 +26,12 @@
 
 ---
     
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienschmitz&show_icons=true&theme=synthwave&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=adrienschmitz&show_icons=true&show_icons=true&theme=synthwave&count_private=true&hide_rank=true" />
-</div>
+<a href="https://github.com/adrienschmitz">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienschmitz&show_icons=true&theme=synthwave&count_private=true"/>
+</a>
+<a href="https://github.com/adrienschmitz">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrienschmitz&show_icons=true&show_icons=true&theme=synthwave&count_private=true&hide_rank=true" />
+</a>
 
 <!---
 adrienschmitz/adrienschmitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
