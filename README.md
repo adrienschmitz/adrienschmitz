@@ -25,13 +25,23 @@
 </div>
 
 ---
-    
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px"
+
+<table>
+<tr>
+<td>
 <a href="https://github.com/adrienschmitz">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienschmitz&show_icons=true&theme=synthwave&count_private=true"/>
+<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienschmitz&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 </a>
+</td>
+<td>
 <a href="https://github.com/adrienschmitz">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrienschmitz&show_icons=true&show_icons=true&theme=synthwave&count_private=true&hide_rank=true" />
+<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=adrienschmitz&show_icons=true&show_icons=true&theme=radical&count_private=true&hide_rank=true" />
 </a>
+</td>
+</tr>
+</table>
+
 
 <!---
 adrienschmitz/adrienschmitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
