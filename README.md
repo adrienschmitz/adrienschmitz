@@ -14,7 +14,7 @@
 
 <div id="badges" style="margin-left:40px;">
   <a href = "https://www.linkedin.com/in/adrienschmitz/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   <a>
 </div>
 
